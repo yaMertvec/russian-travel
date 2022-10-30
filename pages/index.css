@@ -12,6 +12,7 @@
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__links/header__links.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
+@import url(../blocks/header/__lang-link/__active/header__lang-link__active.css);
 /*-----------------------------------*/
 
 /*--------------------main-----------*/
