@@ -9,7 +9,7 @@
 * HTML
 * CSS
 
-**Figma**
+####
 
 * [Ссылка на github pages](https://yamertvec.github.io/)
 
