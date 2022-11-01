@@ -14,22 +14,26 @@
   background-image: url(../../../images/cover-trains.jpg);
   position: relative;
   z-index: 1;
+  margin: 0 48px;
 }
 
 @media screen and (max-width: 1124px) {
   .cover__item {
     min-height: 640px;
+    margin: 0;
   }
 }
 
 @media screen and (max-width: 984px) {
   .cover__item {
     min-height: 480px;
+    margin:0;
   }
 }
 @media screen and (max-width: 568px) {
   .cover__item {
     min-height: 200px;
+    margin: 0;
   }
 }
 

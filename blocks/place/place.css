@@ -23,5 +23,10 @@
   .place {
     grid-template-columns: minmax(min-content, max-content);
     gap: 32px;
+    margin-top: 50px;
+ }
+
+ .place:first-child {
+  margin-top: 0;
  }
 }

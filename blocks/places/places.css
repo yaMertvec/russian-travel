@@ -28,6 +28,7 @@
   .places {
     max-width: 320px;
     padding: 0;
+    display: block;
   }
 
 }
